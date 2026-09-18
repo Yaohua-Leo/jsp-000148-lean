@@ -1,3 +1,4 @@
+/- leanprover/lean4:v4.35.0-rc2  mathlib v4.35.0-rc2 -/
 /-
 JSP-000148 · "How many representations of one are there as a sum of a
 prescribed number of distinct positive unit fractions?"
